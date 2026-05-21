@@ -10,7 +10,7 @@ A custom-designed, single-layer adjustable DC voltage regulator PCB capable of p
 
 | PCB Print Layout | Soldered Bottom Layer |
 |---|---|
-| ![Print Version](Images/PCB_Printing_Version.png) | ![Soldered Version](Images/PCB_Soldered_Version.jpg) |
+| ![Print Version](Images/PCB_Printing_Version.png) | ![Soldered Version](Images/PCB_Soldered_Version.jpeg) |
 
 ### Physical Implementation
 ![Physical Circuit](Images/PCB_Physical.jpeg)
