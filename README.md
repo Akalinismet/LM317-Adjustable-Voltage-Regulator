@@ -39,7 +39,7 @@ The initial functional verification of the manufactured PCB was conducted using 
 ### 🔍 Visual Test Results
 | Minimum Output Test | Intermediate Output Test | Maximum Output Test |
 |---|---|---|
-| ![Minimum Output](Images/12toMİN.jpg) | ![Intermediate Output](Images/12ToAnyVolt.jpg) | ![Maximum Output](Images/12toMAX.jpg) |
+| ![Minimum Output](Images/12toMİN.jpeg) | ![Intermediate Output](Images/12ToAnyVolt.jpeg) | ![Maximum Output](Images/12toMAX.jpeg) |
 
 ## 📦 Bill of Materials (BOM)
 * **ICs & Displays:** 1x LM317T Voltage Regulator, 1x Mini Digital Voltmeter (2.5V - 30V)
